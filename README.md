@@ -22,13 +22,22 @@ Some Alias for Trello With Alfred Workflow
 
 Just Press your Hotkey or Type **tl** in Alfred…
 
-Alias
+###Alias
 
 * `tll` for Pull Data Frome Server. (you need run it **first**)
 * `tlb` for Show Boards.
 * `tlc` for Show Cards.
 * `tln` for Check Notification.
 * `tla` for Add Card to Your Master Board.
+
+###Default behavior (in board & card view)
+
+Select a Item, then:
+
+* Open a link by pressing **ENTER**.
+* Copy url by pressing **Shift + ENTER** key.
+* Also Set Master Board by pressing **Command + ENTER** key. (when you use **Add Card** feature, you need it.)
+
 
 ###example
 
